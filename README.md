@@ -10,7 +10,7 @@ Question #1:
     one free agent and why they fit what the Pacers may need. Also, choose one player that may be
     able to be acquired from another team that you believe is undervalued based on analytics.
 
-(Presentation!)[https://docs.google.com/presentation/d/1mKjg0hVf6s5Kv5sKDcd8qwsSVT8_6hiwqZucb4Vxhdo/edit#slide=id.p]
+(Presentation - with animations!)[https://docs.google.com/presentation/d/1mKjg0hVf6s5Kv5sKDcd8qwsSVT8_6hiwqZucb4Vxhdo/edit#slide=id.p]
 
 Question #2:
 
