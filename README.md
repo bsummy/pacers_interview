@@ -1,7 +1,7 @@
 # pacers_interview
 Responses for Indiana Pacers basketball analytics internship.
 
-Question #1:
+## Question #1:
 
     Create an analytically driven presentation using publicly available stats (NBA.com,
     BasketballReference, Spotrac, etc.) in your preferred format (PowerPoint/Word/BI Tool, Max: 5
@@ -10,9 +10,9 @@ Question #1:
     one free agent and why they fit what the Pacers may need. Also, choose one player that may be
     able to be acquired from another team that you believe is undervalued based on analytics.
 
-(Presentation - with animations!)[https://docs.google.com/presentation/d/1mKjg0hVf6s5Kv5sKDcd8qwsSVT8_6hiwqZucb4Vxhdo/edit#slide=id.p]
+[Presentation - with animations!](https://docs.google.com/presentation/d/1mKjg0hVf6s5Kv5sKDcd8qwsSVT8_6hiwqZucb4Vxhdo/edit#slide=id.p)
 
-Question #2:
+## Question #2:
 
     Using the attached CSVs and coding language/program of your choice, create 4 plots that
     showcase how the Pacers perform in each of the Four Factors (eFG%, OREB%, TOV%, FTM Rate)
@@ -21,8 +21,9 @@ Question #2:
     Using the created plots, which factor was most important to the Pacers success (or failure)?
 
 
-Question #3
+## Question #3
 Using left and inner joins only, use the table structures in the attached Excel file to write mock-SQL queries based on the below questions:
+
     - Find the average points per game for each player in the '2022' season who currently
     plays for a team in the 'Western' conference. Include the player's full name and the
     average points.
