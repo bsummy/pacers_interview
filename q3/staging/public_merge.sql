@@ -1,5 +1,3 @@
-
-
 COPY public.player_stats(player_id, team_id, league_id, first_name, last_name, full_name, jersey_number, position_simple, status)
 FROM '/Users/bennettsummy/pacers_interview/q3/staging/player_stats.csv'
 DELIMITER ','

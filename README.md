@@ -1,7 +1,22 @@
 # pacers_interview
 Technical responses for Indiana Pacers basketball analytics internship.
+Question #1:
+    Create an analytically driven presentation using publicly available stats (NBA.com,
+    BasketballReference, Spotrac, etc.) in your preferred format (PowerPoint/Word/BI Tool, Max: 5
+    Slides / Paragraphs) to showcase who realistic targets should be for the Pacers upcoming
+    offseason. Detail the Pacers’ needs based on current strengths/weaknesses, as well as at least
+    one free agent and why they fit what the Pacers may need. Also, choose one player that may be
+    able to be acquired from another team that you believe is undervalued based on analytics.
+    Include any code you used throughout your research process.
 
+https://docs.google.com/presentation/d/1mKjg0hVf6s5Kv5sKDcd8qwsSVT8_6hiwqZucb4Vxhdo/edit#slide=id.p
 
+Question #2
+    Using the attached CSVs and coding language/program of your choice, create 4 plots that
+    showcase how the Pacers perform in each of the Four Factors (eFG%, OREB%, TOV%, FTM Rate)
+    compared to their opponent and league average on a game-to-game basis in Wins vs. Losses.
+    Using the created plots, which factor was most important to the Pacers success (or failure)?
+    Include any code you used.
 
 Question #3
 Using left and inner joins only, use the table structures in the attached Excel file to write mock-SQL queries based on the below questions:
